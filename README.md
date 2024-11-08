@@ -1,7 +1,7 @@
 # Projeto com README
 Um projeto de teste com arquivo README #️⃣
 
-[<img src="./Animação.gif" alt="gif de tela"]
+[<img src="./Animacao.gif" alt="gif de tela"]
 
 ## Tecnologia utilizadas
 - HTML5
